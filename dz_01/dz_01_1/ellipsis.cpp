@@ -2,22 +2,6 @@
 
 const double PI = 3.14159265358979323846;
 
-//vector::vector(double _x = 0, double _y = 0) {
-//	x = _x;
-//	y = _y;
-//}
-//vector::vector(const vector& v) {
-//	x = v.x;
-//	y = v.y;
-//}
-//vector::~vector() {
-//
-//}
-//void vector::set(double _x, double _y) {
-//	x = _x;
-//	y = _y;
-//}
-
 Ellipsis::Ellipsis(double _h = 0, double _k = 0, double _a = 0, double _b = 0, bool _is_x_main = true) {
 	h = _h;
 	k = _k;
