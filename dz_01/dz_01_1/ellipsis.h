@@ -4,18 +4,6 @@
 #include <vector>
 using namespace std;
 
-//class vector {
-//public:
-//	double x, y;
-//
-//public:
-//	vector(double _x, double _y);
-//	vector(const vector& v);
-//	~vector();
-//
-//	void set(double _x, double _y);
-//};
-
 class Ellipsis {
 private:
 	double h, k, a, b;
